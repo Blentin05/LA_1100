@@ -22,9 +22,13 @@ Blentin Tosuni
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | muss                | funktional    | Als ein Benutzer möchte ich eine Geheimzahl zwischen 1-100, weil ich mit einem Freund eine Wette abschliessen will, wer näher an der Zahl ist.  ...  |                 |      |                                    |
+| 1    | muss                | funktional    | Als User möchte ich eine Zahl erraten können. Damit ich eine Zahl erraten kann, muss eine Zahl generiert werden.  |      | muss                | funktional    | Als User möchte ich eine Zahl erraten.               
+| 2     | kann                | funktional    |  Als User möchte ich einen Hinweis, wenn die geratene Zahl grösser und niedriger als die generierte Zahl ist oder gleich. 
+| 3     | kann              | funktional       | Als User möchte ich die Anzahl Rateversuche sehen, nachdem die Geheimzahl erraten wurde.                
+| 4     | muss                  | funktion     | Ich möchte, dass das Program mit Fehlangaben umgeht oder Sie vermeidet 
+| 5      | kann                  |  funktion   | Das falsche soll rot angezeigt werden.       
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
@@ -44,8 +48,8 @@ Blentin Tosuni
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A |1.07.2022| Blentin Tosuni | US 1,2 | 135 min       |
+| 2.A    |1.07.2022| Blentin Tosuni | US 3 | 90 min       |
 
 Total: 
 
