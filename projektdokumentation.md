@@ -16,7 +16,7 @@ Blentin Tosuni
 
 ### 1.1 Random number generator
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Ich erstelle ein Random Number game.
 
 ### 1.2 User Stories
 
@@ -25,20 +25,25 @@ Blentin Tosuni
 | 1    | muss                | funktional    | Als User möchte ich eine Zahl erraten können. Damit ich eine Zahl erraten kann, muss eine Zahl generiert werden.  |      | muss                | funktional    | Als User möchte ich eine Zahl erraten.               
 | 2     | kann                | funktional    |  Als User möchte ich einen Hinweis, wenn die geratene Zahl grösser und niedriger als die generierte Zahl ist oder gleich. 
 | 3     | kann              | funktional       | Als User möchte ich die Anzahl Rateversuche sehen, nachdem die Geheimzahl erraten wurde.                
-| 4     | muss                  | funktion     | Ich möchte, dass das Program mit Fehlangaben umgeht oder Sie vermeidet 
-| 5      | kann                  |  funktion   | Das falsche soll rot angezeigt werden.       
+| 4     | muss                  | funktional     | Ich möchte, dass das Program mit Fehlangaben umgeht oder Sie vermeidet 
+| 5     | kann                  |  qualität   | Das falsche Zahl soll rot angezeigt werden.   
+| 6     | kann                  |  qualität   | Die Seite mit dem Generator soll schön sein.
+| 7     | kann                  |  funktional | Wenn die Rateversuche angezeigt werden, sollten die Zahlen grün markiert sein, die eine gerringere Distanz als 20 zu der Zahl haben
 
-Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |  Zahl wird generiert. | Eingabe einer Zahl        | Ausgabe einer Zahl                  |
+| ...  | Eingegebene Zahl wird überprüft |        |  Ausgabe, ob kleiner, grösser oder gleich                 |
+| ...  |Zahl wird erraten |50(x)        |Anzahl Versuche (y)                 |
+| ...  | Programm wird gestartet  |Text|Keine Zahl    
+| ...  |Zahl eingegeben | Zahl  |Rote Zahl|50(x)        
+| ...  |Programm startet |---       |Schöne Seite              |
+| ...  |Ratversuche werden gezählt |Zahl       |Grün markierte Zahlen die eine Distanz von max 20 zu der generierten Zahl haben.                 |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
-
+      
 ### 1.4 Diagramme
 
 ![image](https://user-images.githubusercontent.com/111045987/186598625-753a8022-d7d3-4d82-92c9-028f78314c37.png)
@@ -49,13 +54,15 @@ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A |1.07.2022| Blentin Tosuni | US 1,2 | 135 min       |
-| 2.A    |1.07.2022| Blentin Tosuni | US 3 | 90 min       |
+| 2.A  |1.07.2022| Blentin Tosuni | US 3 | 135 min        |
+| 3.A  |1.07.2022| Blentin Tosuni | US 4 | 135 min        |
+| 4.A  |1.07.2022| Blentin Tosuni | US 5 | 45 min         |
+| 5.A  |1.07.2022| Blentin Tosuni | US 6 | 90 min         |
+| 6.A  |1.07.2022| Blentin Tosuni | US 7 | 90 min         |
 
 Total: 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
