@@ -38,8 +38,8 @@ Blentin Tosuni
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
-![image](https://user-images.githubusercontent.com/111045987/186598014-f89878ad-1ebd-4dcd-ba6f-cbc3b4b999e5.png)
+![image](https://user-images.githubusercontent.com/111045987/186598625-753a8022-d7d3-4d82-92c9-028f78314c37.png)
+
 
 ## 2 Planen
 
