@@ -53,8 +53,8 @@ Ich erstelle ein Random Number game.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A |1.07.2022| Blentin Tosuni | US 1,2 | 135 min       |
-| 2.A  |1.07.2022| Blentin Tosuni | US 3 | 135 min        |
+| 1.A |1.09.2022| Blentin Tosuni | US 1,2 | 135 min       |
+| 2.A  |8.09.2022| Blentin Tosuni | US 3 | 135 min        |
 | 3.A  |1.07.2022| Blentin Tosuni | US 4 | 135 min        |
 | 4.A  |1.07.2022| Blentin Tosuni | US 5 | 45 min         |
 | 5.A  |1.07.2022| Blentin Tosuni | US 6 | 90 min         |
@@ -72,8 +72,8 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A, 2.A  | 1.09.22      |  Blentin Tosuni         | 135 min              | Ca. 175 min                  |
+|   |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
