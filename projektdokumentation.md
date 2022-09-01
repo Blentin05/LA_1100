@@ -72,8 +72,8 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A, 2.A  | 1.09.22      |  Blentin Tosuni         | 135 min              | Ca. 175 min                  |
-|   |       |           |               |                   |
+| 1.A  | 1.09.22      |  Blentin Tosuni         | 135 min              | Ca. 150 min                  |
+|2.A   | 1.09.22      |Blentin Tosuni           |135 min               | Ca. 20 min                  |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
