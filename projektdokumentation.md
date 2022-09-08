@@ -11,7 +11,7 @@ Blentin Tosuni
 | 01.09.2022 | 1.  | Ich habe programmiert, dass eine Zahl generiert wird und habe programmiert, dass man eine Zahl eingeben kann.|
 |  01.09.2022  |  2.  |Man bekommt einen Hinweis, ob die Zahl grösser, kleiner oder gleich gross ist.                                                        |
 |  01.09.2022      | 3.  |Man sieht nun wieviel mal man geratten hat.                                                              |
-|  01.09.2022      | 4. |Mein Programm kann nun mit Fehlangaben umgehen(zB. Buchstaben)                                                              |
+|  08.09.2022      | 4. |Mein Programm kann nun mit Fehlangaben umgehen(zB. Buchstaben)                                                              |
 ## 1 Informieren
 
 ### 1.1 Random number generator
