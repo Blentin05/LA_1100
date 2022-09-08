@@ -8,9 +8,9 @@ Blentin Tosuni
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 01.09.2022 | 1.  | Ich habe programmiert, dass eine Zahl generiert wird und habe programmiert, dass man eine Zahl eingeben kann.|
+|  01.09.2022  |  2.  |Man bekommt einen Hinweis, ob die Zahl grösser, kleiner oder gleich gross ist.                                                        |
+|  01.09.2022      | 3.  |Man sieht nun wieviel mal man geratten hat.                                                              |
 
 ## 1 Informieren
 
@@ -55,10 +55,10 @@ Ich erstelle ein Random Number game.
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A |1.09.2022| Blentin Tosuni | US 1,2 | 135 min       |
 | 2.A  |8.09.2022| Blentin Tosuni | US 3 | 135 min        |
-| 3.A  |1.07.2022| Blentin Tosuni | US 4 | 135 min        |
-| 4.A  |1.07.2022| Blentin Tosuni | US 5 | 45 min         |
-| 5.A  |1.07.2022| Blentin Tosuni | US 6 | 90 min         |
-| 6.A  |1.07.2022| Blentin Tosuni | US 7 | 90 min         |
+| 3.A  |08.09.2022| Blentin Tosuni | US 4 | 135 min        |
+| 4.A  |15.09.2022| Blentin Tosuni | US 5 | 45 min         |
+| 5.A  |15.09.2022| Blentin Tosuni | US 6 | 90 min         |
+| 6.A  |15.09.2022| Blentin Tosuni | US 7 | 90 min         |
 
 Total: 
 
@@ -73,7 +73,9 @@ Total:
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  | 1.09.22      |  Blentin Tosuni         | 135 min              | Ca. 150 min                  |
-|2.A   | 1.09.22      |Blentin Tosuni           |135 min               | Ca. 20 min                  |
+|2.A   | 1.09.22      |Blentin Tosuni           |135 min               | Ca. 135 min                 |
+|3.A   | 1.09.22      |Blentin Tosuni           |135 min               | Ca. 60 min                  |
+|4.A   | 1.09.22      |Blentin Tosuni           |135 min               | Ca. 130 min                 |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
