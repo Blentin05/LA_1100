@@ -11,7 +11,7 @@ Blentin Tosuni
 | 01.09.2022 | 1.  | Ich habe programmiert, dass eine Zahl generiert wird und habe programmiert, dass man eine Zahl eingeben kann.|
 |  01.09.2022  |  2.  |Man bekommt einen Hinweis, ob die Zahl grösser, kleiner oder gleich gross ist.                                                        |
 |  01.09.2022      | 3.  |Man sieht nun wieviel mal man geratten hat.                                                              |
-
+|  01.09.2022      | 4. |Mein Programm kann nun mit Fehlangaben umgehen(zB. Buchstaben)                                                              |
 ## 1 Informieren
 
 ### 1.1 Random number generator
@@ -72,10 +72,8 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 1.09.22      |  Blentin Tosuni         | 135 min              | Ca. 150 min                  |
-|2.A   | 1.09.22      |Blentin Tosuni           |135 min               | Ca. 135 min                 |
-|3.A   | 1.09.22      |Blentin Tosuni           |135 min               | Ca. 60 min                  |
-|4.A   | 1.09.22      |Blentin Tosuni           |135 min               | Ca. 130 min                 |
+| 1.A und 2.A  | 1.09.22      |  Blentin Tosuni         | 135 min              | Ca. 120 min                  |
+|3.A   | 1.09.22      |Blentin Tosuni           |135 min               | Ca. 150 min                 |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
