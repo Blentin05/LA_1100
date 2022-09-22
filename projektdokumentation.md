@@ -67,7 +67,7 @@ Total: 630 min (Zeit total verschätzt, hätte viel länger gebraucht).
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+
 
 ## 4 Realisieren
 
@@ -102,8 +102,7 @@ Wegen dem Ende, also bei Fehleranzeigen musste ich Schlaufen anwenden, die das g
 | I    |              |         |                   |                      |
 | ...  |              |         |                   |                      |
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
+
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
