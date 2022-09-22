@@ -105,4 +105,4 @@ Wegen dem Ende, also bei Fehleranzeigen musste ich Schlaufen anwenden, die das g
 
 
 ## 6 Auswerten
-
+https://github.com/Blentin05/LA_1100/blob/main/Lernbericht.md
